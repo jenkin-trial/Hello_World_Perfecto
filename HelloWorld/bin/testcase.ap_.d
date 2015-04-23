@@ -1,4 +1,4 @@
-C:\Users\pallavi.snehal\git\HelloWorld_Jenkins_Perfecto\HelloWorld\bin\MainActivity.ap_ \
+C:\Users\pallavi.snehal\git\HelloWorld_Jenkins_Perfecto\HelloWorld\bin\testcase.ap_ \
  : C:\Users\pallavi.snehal\git\HelloWorld_Jenkins_Perfecto\HelloWorld\res\drawable-hdpi\ic_action_search.png \
 C:\Users\pallavi.snehal\git\HelloWorld_Jenkins_Perfecto\HelloWorld\res\drawable-hdpi\ic_launcher.png \
 C:\Users\pallavi.snehal\git\HelloWorld_Jenkins_Perfecto\HelloWorld\res\drawable-ldpi\ic_launcher.png \
